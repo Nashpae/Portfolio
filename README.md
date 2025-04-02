@@ -1,5 +1,5 @@
 # Welcome to My Portfolio
-Hi! I'm Cornelius. Here you'll find my projects, skills, and achievements.
+Hi! I'm Nashipae. Here you'll find my projects, skills, and achievements.
 
 ## Projects
 
